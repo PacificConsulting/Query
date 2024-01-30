@@ -9,6 +9,7 @@ query 50001 "Sales Invoice Line"
         {
             column(Type; Type)
             {
+                //
 
             }
             column(No_; "No.")
